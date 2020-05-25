@@ -1,14 +1,25 @@
 {
-    "name": "ionic-bower",
-    "private": false,
-    "version": "1.3.5",
-    "codename": "hong kong",
-    "repository": {
-        "url": "git://github.com/ionic-team/ionic-bower.git"
-    },
-    "licenses": [
-        {
-            "type": "MIT"
-        }
-    ]
+  "name": "@douglaszaltron/ionic-bower",
+  "private": false,
+  "version": "1.3.5",
+  "codename": "hong kong",
+  "repository": {
+    "url": "git://github.com/ionic-team/ionic-bower.git"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "description": "Bower repository for [Ionic Framework](http://github.com/driftyco/ionic) v1 (Ionic 2+ uses npm)",
+  "bugs": {
+    "url": "https://github.com/ionic-team/ionic-bower/issues"
+  },
+  "homepage": "https://github.com/ionic-team/ionic-bower#readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
 }
